@@ -41,9 +41,5 @@ _Add a screenshot or GIF below_
 ---
 
 ## 🚀 Live Demo
- [Survey Form](  https://washiy-codes.github.io/Survey-Form1/)
+ [Cash Register App](  https://washiy-codes.github.io/Cash-Register/)
 
-
-```md
-
-![App Preview](./screenshot.png)
