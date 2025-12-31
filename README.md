@@ -5,6 +5,12 @@ It calculates change accurately based on the item price, customer payment, and a
 
 ---
 
+## 📸 Preview
+
+_Add a screenshot or GIF below_
+
+---
+
 ## 🚀 Features
 
 ✅ Calculates total change automatically  
@@ -34,9 +40,10 @@ It calculates change accurately based on the item price, customer payment, and a
 
 ---
 
-## 📸 Preview
+## 🚀 Live Demo
+ [Survey Form](  https://washiy-codes.github.io/Survey-Form1/)
 
-_Add a screenshot or GIF below_
 
 ```md
+
 ![App Preview](./screenshot.png)
