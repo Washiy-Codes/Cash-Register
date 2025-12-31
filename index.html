@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cash Register</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <img class="logo" src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" alt="freeCodeCamp Logo" />
+  <div class="container">
+    <h1>🧾 Cash Register Project</h1>
+
+    <label for="cash">Enter Cash from customer:</label>
+    <input type="number" id="cash" placeholder="e.g. 5.00" step="0.01" />
+
+    <button id="purchase-btn">Purchase</button>
+
+     <p id="change-due" class="output"></p>
+     
+    <div id="total">
+    <button class="total">Total: <strong>$3.26</strong></button>
+    </div>
+    <div class="change-container">
+      <h2>Change in drawer:</h2>
+      <p>Pennies: <strong>$0.97</strong></p>
+      <p>Nickels: $2.05</p>
+      <p>Dimes: $2.9</p>
+      <p>Quarters: $3.75</p>
+      <p>Ones: $89</p>
+      <p>Fives: $55</p>
+      <p>Tens: $10</p>
+      <p>Twenties: $20</p>
+      <p>Hundreds: $100</p>
+   </div>
+  
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+*,
+::before,
+::after{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+:root{
+  --dark-blue:#0a0a23;
+  --white:#fff;
+  --gray:#808080;
+  --black:#000000;
+   --gray-00: #ffffff;
+  --gray-05: #f5f6f7;
+  --gray-15: #d0d0d5;
+  --gray-75: #3b3b4f;
+  --gray-85: #1b1b32;
+  --gray-90: #0a0a23;
+  --blue-50: #008080;
+  --error: #a94442;
+  --danger-color: #850000;
+  --danger-background: #ffadad;
+  --dark-grey: #1b1b32;
+  --light-grey: #f5f6f7;
+  --golden-yellow: #fecc4c;
+  --yellow: #ffcc4c;
+  --gold: #feac32;
+  --orange: #ffac33;
+  --dark-orange: #f89808;
+}
+.logo{
+  width:400px;
+  padding:20px;
+  margin-top:2em;
+}
+body{
+  font-family: Arial, sans-serif;
+  background: #56567e;
+  display: flex;
+  flex-direction:column;
+  padding:20px;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background: rgb(228, 215, 215);
+  padding: 30px 40px;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  width: 470px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 15px;
+  width: 100%;
+  padding: 10px;
+  background-color: #1e90ff;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.2s ease;
+}
+
+#purchase-btn:hover {
+  background-color: #0073e6;
+}
+
+.output {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #0a0a0a;
+}
+#change-due {
+    display: block;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #0a0a0a;
+}
+
+.outputs{
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content:center;
+}
+.total{
+  background-color:var(--yellow);
+  color:var(--white);
+  width:50%;
+}
+
+#total{
+  text-align:center;
+}
+.change-container{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  margin:15px;
+  border-radius:20px;
+  background-color:#0a0a23;
+  color:white;
+  padding:10px;
+}
