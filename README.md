@@ -7,8 +7,6 @@ It calculates change accurately based on the item price, customer payment, and a
 
 ## 📸 Preview
 
-_Add a screenshot or GIF below_
-
 ---
 
 ## 🚀 Features
