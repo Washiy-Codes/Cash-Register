@@ -7,6 +7,8 @@ It calculates change accurately based on the item price, customer payment, and a
 
 ## 📸 Preview
 
+![Cash Register App]()
+
 ---
 
 ## 🚀 Features
