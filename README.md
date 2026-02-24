@@ -41,5 +41,5 @@ It calculates change accurately based on the item price, customer payment, and a
 ---
 
 ## 🚀 Live Demo
- [Cash Register App](  https://washiy-codes.github.io/Cash-Register/)
+ [Try Here](  https://washiy-codes.github.io/Cash-Register/)
 
