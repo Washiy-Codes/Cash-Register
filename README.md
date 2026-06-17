@@ -1,27 +1,27 @@
-# 💵 Cash Register App
+# Cash Register App
 
 A simple yet powerful **cash register application** built with **HTML, CSS, and JavaScript**.  
 It calculates change accurately based on the item price, customer payment, and available cash in the drawer — just like a real-world register.
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Cash Register App](https://global.discourse-cdn.com/freecodecamp/original/4X/0/5/2/0527b12f7f064476768b3de9605b6c869d8d26b2.png)
 
 ---
 
-## 🚀 Features
+## Features
 
-✅ Calculates total change automatically  
-✅ Handles multiple denominations  
-✅ Detects insufficient funds  
-✅ Clean and responsive UI  
-✅ Real-world cash drawer logic  
+ Calculates total change automatically  
+ Handles multiple denominations  
+ Detects insufficient funds  
+ Clean and responsive UI  
+ Real-world cash drawer logic  
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **HTML** – structure  
 - **CSS** – styling and layout  
@@ -29,7 +29,7 @@ It calculates change accurately based on the item price, customer payment, and a
 
 ---
 
-## 🎯 How It Works
+## How It Works
 
 1. Enter the **item price**  
 2. Enter the **cash provided**  
@@ -40,6 +40,6 @@ It calculates change accurately based on the item price, customer payment, and a
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
  [Try Here](  https://washiy-codes.github.io/Cash-Register/)
 
