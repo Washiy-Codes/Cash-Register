@@ -5,12 +5,6 @@ It calculates change accurately based on the item price, customer payment, and a
 
 ---
 
-## Preview
-
-![Cash Register App](https://global.discourse-cdn.com/freecodecamp/original/4X/0/5/2/0527b12f7f064476768b3de9605b6c869d8d26b2.png)
-
----
-
 ## Features
 
  Calculates total change automatically  
