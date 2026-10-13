@@ -5,15 +5,7 @@ It calculates change accurately based on the item price, customer payment, and a
 
 ---
 
-## Features
 
- Calculates total change automatically  
- Handles multiple denominations  
- Detects insufficient funds  
- Clean and responsive UI  
- Real-world cash drawer logic  
-
----
 
 ## Built With
 
