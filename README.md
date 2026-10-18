@@ -3,7 +3,6 @@
 A simple yet powerful **cash register application** built with **HTML, CSS, and JavaScript**.  
 It calculates change accurately based on the item price, customer payment, and available cash in the drawer — just like a real-world register.
 
----## Features
 
  Calculates total change automatically  
  Handles multiple denominations  
